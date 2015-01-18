@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MazeGraphics">
+</Property><Property Name="Solution File" Value="E:\School\Projects\MazeGraphics\MazeGraphics.sln">
+</Property><Property Name="User Options File" Value="E:\School\Projects\MazeGraphics\MazeGraphics.suo">
+</Property><Property Name="Date" Value="Sunday, January 18, 2015">
+</Property><Property Name="Time" Value="13:59 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MazeGraphics.sln" Description="File successfully backed up as E:\School\Projects\MazeGraphics\MazeGraphics.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="MazeGraphics.suo" Description="File successfully backed up as E:\School\Projects\MazeGraphics\MazeGraphics.suo.old">
+</Event><Event ErrorLevel="0" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Converting project file 'E:\School\Projects\MazeGraphics\MazeGraphics\MazeGraphics.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Done converting to new project file 'E:\School\Projects\MazeGraphics\MazeGraphics\MazeGraphics.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MazeGraphics" Source="MazeGraphics\MazeGraphics.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MazeGraphics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MazeGraphics.sln" Description="Converted">
+</Event></UpgradeLog>
